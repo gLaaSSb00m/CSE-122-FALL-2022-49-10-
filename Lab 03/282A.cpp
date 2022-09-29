@@ -1,3 +1,5 @@
+//Codeforces Problem No -281A
+//Problame name - Word Capitalization
 #include<iostream>
 using namespace std;
 int main()
