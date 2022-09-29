@@ -1,3 +1,5 @@
+//Codeforces Problem No - 71A
+//Problame name - Way Too Long Words
 #include<iostream>
 #include<string>
 #include<cstring>
