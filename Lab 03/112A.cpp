@@ -1,3 +1,5 @@
+//Codeforces Problem No - 112A
+//Problame name - Petya and Strings
 #include<iostream>
 #include<string>
 #include<string.h>
