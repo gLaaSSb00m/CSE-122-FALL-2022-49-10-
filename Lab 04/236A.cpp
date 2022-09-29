@@ -1,3 +1,5 @@
+//Codeforces Problem No -236A
+//Problame name -Boy or Girl
 #include<iostream>
 #include<string>
 using namespace std;
