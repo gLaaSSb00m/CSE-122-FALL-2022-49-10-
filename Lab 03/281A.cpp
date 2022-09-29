@@ -1,3 +1,5 @@
+//Codeforces Problem No -281A
+//Problame name - Word Capitalization
 #include<iostream>
 #include<string>
 #include<ctype.h>
