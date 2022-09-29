@@ -1,3 +1,5 @@
+//Codeforces Problem No -266A	
+//Problame name -Stones on the Table
 #include<iostream>
 using namespace std;
 int main()
