@@ -1,4 +1,5 @@
-
+//Codeforces Problem No - 339A
+//Problame name -Helpful Maths
 #include<iostream>
 using namespace std;
 int main()
